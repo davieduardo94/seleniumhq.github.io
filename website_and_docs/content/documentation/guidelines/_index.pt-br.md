@@ -4,6 +4,7 @@ linkTitle: "Diretrizes"
 weight: 7
 description: >
   Some guidelines and recommendations on testing from the Selenium project.
+  Algumas diretrizes e recomendações sobre testes do projeto Selenium
 aliases: ["/documentation/pt-br/guidelines_and_recommendations/"]  
 ---
 
